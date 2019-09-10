@@ -4,7 +4,4 @@ title: Work
 permalink: /work/
 ---
 
-# **Capital One**
-
-
-# **University of California in San Francisco**
+For an overview of my work history, please visit my [LinkedIn](https://www.linkedin.com/in/triptagupta/) profile.

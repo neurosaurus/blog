@@ -4,6 +4,11 @@ title: Speaking
 permalink: /speaking/
 ---
 
+Topics I enjoy speaking about: 
+
+## Upcoming
+None at this time.
+
 ## Past
 **How Swift Accelerated Our Journey to Polyglot Microservices (Keynote)**<br>
 [Swift Cloud Workshop 4](https://twitter.com/swiftcloudshop?lang=en)<br>

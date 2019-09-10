@@ -5,9 +5,7 @@ permalink: /reading/
 ---
 In the future, I'd like to include reviews of books I've read that were particularly impactful to me.
 In the meantime, please visit my [Goodreads](https://www.goodreads.com/user/show/5448044-tripta-gupta) page.
-
-
-
+Here I track books I've read, ones that I'm interested in reading, and those I am currently reading.
 
 <style type="text/css" media="screen">
   .gr_custom_container_ {

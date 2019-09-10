@@ -5,6 +5,8 @@ main:
     url: "/work/"
   - title: "Speaking"
     url: "/speaking/"
+  - title: "Publications"
+    url: "/publications/"
   - title: "Reading"
     url: "/reading/"
   - title: "Blog Posts"

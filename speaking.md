@@ -4,7 +4,7 @@ title: Speaking
 permalink: /speaking/
 ---
 
-Topics I enjoy speaking about: Collaboration between front & backend engineers, emerging technologies, and engineering leadership.
+Topics I enjoy speaking about: collaboration between front & backend engineers, emerging technologies, and engineering leadership.
 
 ## Upcoming
 None at this time.

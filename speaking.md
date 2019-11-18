@@ -7,7 +7,9 @@ permalink: /speaking/
 Topics I enjoy speaking about: collaboration between front & backend engineers, emerging technologies, and engineering leadership.
 
 ## Upcoming
-None at this time.
+**How to Develop as a Leader: Ask for that Big, Hairy Project. Then Go Make Mistakes.***<br>
+[Waffle.js](https://wafflejs.com/)<br>
+December 2019 - San Francisco, CA<br>
 
 ## Past
 **How Swift Accelerated Our Journey to Polyglot Microservices (Keynote)**<br>

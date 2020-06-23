@@ -7,11 +7,13 @@ permalink: /speaking/
 Topics I enjoy speaking about: collaboration between front & backend engineers, emerging technologies, and engineering leadership.
 
 ## Upcoming
+### Taking a break from speaking during 2020
+
+## Past
 **How to Develop as a Leader: Ask for that Big, Hairy Project. Then Go Make Mistakes.***<br>
 [Waffle.js](https://wafflejs.com/)<br>
 December 2019 - San Francisco, CA<br>
 
-## Past
 **How Swift Accelerated Our Journey to Polyglot Microservices (Keynote)**<br>
 [Swift Cloud Workshop 4](https://twitter.com/swiftcloudshop?lang=en)<br>
 November 2018 - New York City, NY<br>

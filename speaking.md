@@ -7,7 +7,7 @@ permalink: /speaking/
 Topics I enjoy speaking about: collaboration between front & backend engineers, emerging technologies, and engineering leadership.
 
 ## Upcoming
-### Taking a break from speaking during 2020
+Taking a break from speaking during 2020
 
 ## Past
 **How to Develop as a Leader: Ask for that Big, Hairy Project. Then Go Make Mistakes.***<br>

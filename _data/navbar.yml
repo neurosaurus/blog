@@ -1,0 +1,13 @@
+main:
+    - title: "About"
+      url: "/"
+    - title: "Work"
+      url: "/work/"
+    - title: "Speaking"
+      url: "/speaking/"
+    - title: "Reading"
+      url: "/reading/"
+    - title: "Blog"
+      url: /blog/
+    - title: "Publications"
+      url: "/publications/"
